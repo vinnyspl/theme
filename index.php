@@ -35,7 +35,8 @@
 <header class="header" id="header">
 	<div class="container">
         <h1 class="animated fadeInDown delay-07s">Crie seu chá de fraldas virtual</h1>
-        <a class="link animated fadeInUp delay-1s servicelink" href="#como-funciona">Comece Agora</a>
+        <a class="link animated fadeInUp delay-1s servicelink" href="#como-funciona">Conheça</a>
+        <a class="link g animated fadeInUp delay-1s servicelink" onclick="alert('Em breve!')" href="#">Entrar</a>
     </div>
 </header>
 <!--header-end-->
@@ -235,8 +236,7 @@
 		<b class="quote-right wow fadeInDown delay-03"><i class="fa-quote-right"></i></b>
     	<div class="row">
         	<div class="col-lg-12">
-            	<p class="client-part-haead wow fadeInDown delay-05">It was a pleasure to work with the guys at Knight Studio. They made sure 
-we were well fed and drunk all the time!</p>
+            	<p class="client-part-haead wow fadeInDown delay-05">Mussum Ipsum, cacilds vidis litro abertis. Todo mundo vê os porris que eu tomo, mas ninguém vê os tombis que eu levo! Si u mundo tá muito paradis?</p>
             </div>
         </div>
     	<ul class="client wow fadeIn delay-05s">

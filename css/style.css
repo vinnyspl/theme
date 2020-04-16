@@ -169,7 +169,8 @@ p {
 }
 
 .link {
-    padding: 15px 35px;
+    width: 150px;
+    padding: 15px 0;
     background: #d56073;
     color: #fff !important;
     font-size: 16px;
@@ -183,6 +184,16 @@ p {
     transition: all 0.3s ease-in-out;
     -moz-transition: all 0.3s ease-in-out;
     -webkit-transition: all 0.3s ease-in-out;
+}
+
+.link.g {
+    background: #70CCD1;
+}
+
+.link.g:hover {
+    text-decoration: none;
+    color: #70CCD1 !important;
+    background: #fff;
 }
 
 .link:hover {
