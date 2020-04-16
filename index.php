@@ -35,7 +35,7 @@
 <header class="header" id="header">
 	<div class="container">
         <h1 class="animated fadeInDown delay-07s">Crie seu chá de fraldas virtual</h1>
-        <a class="link animated fadeInUp delay-1s servicelink" href="#service">Comece Agora</a>
+        <a class="link animated fadeInUp delay-1s servicelink" href="#como-funciona">Comece Agora</a>
     </div>
 </header>
 <!--header-end-->
@@ -45,23 +45,23 @@
 	<div class="container">
         <ul class="main-nav">
             <li class="small-logo"><a href="#header"><img src="assets/img/logo.jpg" width="55" alt=""></a></li>
-        	<li><a href="#header">Como Funciona</a></li>
-            <li><a href="#service">Duvidas</a></li>
-            <li><a href="#Portfolio">Contato</a></li>
+        	<li><a href="#como-funciona">Como Funciona</a></li>
+            <li><a href="#duvidas">Dúvidas</a></li>
+            <li><a href="#contato">Contato</a></li>
         </ul>
         <a class="res-nav_click" href="#"><i class="fa-bars"></i></a>
     </div>
 </nav>
 <!--main-nav-end-->
 
-<section class="main-section" id="service"><!--main-section-start-->
+<!--main-section-start-->
+<section class="main-section" id="como-funciona">
 	<div class="container">
     	<h2>Como Funciona</h2>
     	<h6>Mussum Ipsum, cacilds vidis litro abertis. Quem manda na minha terra sou euzis! Sapien in monti palavris qui num significa nadis i pareci latim. Quem num gosta di mim que vai caçá sua turmis! Manduma pindureta quium dia nois paga.</h6>        
 	</div>
 </section>
 <!--main-section-end-->
-
 
 <!--main-section pais-start-->
 <section class="main-section alabaster">
@@ -76,7 +76,7 @@
                     </div>	
                 	<div class="box-col2 wow fadeInRight delay-02s">
                         <h3>Faça seu cadastro</h3>
-                        <p>Proin iaculis purus consequat sem cure digni ssim. Donec porttitora entum suscipit aenean rhoncus posuere odio in tincidunt. </p>
+                        <p>Todo mundo vê os porris que eu tomo, mas ninguém vê os tombis que eu levo! Cevadis im ampola pa arma uma pindureta. </p>
                     </div>    
                 </div>
                 <div class="box">
@@ -85,7 +85,7 @@
                     </div>	
                 	<div class="box-col2 wow fadeInRight delay-04s">
                         <h3>Crie seu chá de fraldas</h3>
-                        <p>Proin iaculis purus consequat sem cure digni ssim. Donec porttitora entum suscipit aenean rhoncus posuere odio in tincidunt. </p>
+                        <p>Todo mundo vê os porris que eu tomo, mas ninguém vê os tombis que eu levo! Cevadis im ampola pa arma uma pindureta. </p>
                     </div>    
                 </div>
                 <div class="box">
@@ -94,7 +94,7 @@
                     </div>	
                 	<div class="box-col2 wow fadeInRight delay-04s">
                         <h3>Crie sua lista de produtos</h3>
-                        <p>Proin iaculis purus consequat sem cure digni ssim. Donec porttitora entum suscipit aenean rhoncus posuere odio in tincidunt. </p>
+                        <p>Todo mundo vê os porris que eu tomo, mas ninguém vê os tombis que eu levo! Cevadis im ampola pa arma uma pindureta. </p>
                     </div>    
                 </div>
                 <div class="box">
@@ -103,10 +103,10 @@
                     </div>	
                 	<div class="box-col2 wow fadeInRight delay-06s">
                         <h3>Convide seus amigos</h3>
-                        <p>Proin iaculis purus consequat sem cure digni ssim. Donec porttitora entum suscipit aenean rhoncus posuere odio in tincidunt. </p>
+                        <p>Todo mundo vê os porris que eu tomo, mas ninguém vê os tombis que eu levo! Cevadis im ampola pa arma uma pindureta. </p>
                     </div>    
                 </div>
-                <a class="Learn-More" href="#">Learn More</a>
+                <a class="cta-button fl-rt" href="#">Comece Agora</a>
             </div>
 			<figure class="col-lg-5 col-sm-4 wow fadeInRight">
             	<img  src="assets/img/pais.jpg" alt="">
@@ -117,100 +117,120 @@
 <!--main-section pais-end-->
 
 <!--main-section convidados-start-->
-<section class="main-section alabaster">
+<section class="main-section bege">
 	<div class="container">
     	<div class="row">
 			<figure class="col-lg-5 col-sm-4 wow fadeInLeft">
             	<img  src="assets/img/pais.jpg" alt="">
             </figure>
-        	<div class="col-lg-7 col-sm-8 featured-work">
-            	<h2>featured work</h2>
+        	<div class="col-lg-7 col-sm-8 para-convidados">
+            	<h2>Para os convidados</h2>
             	<p class="padding-b">Mussum Ipsum, cacilds vidis litro abertis. Quem manda na minha terra sou euzis! Sapien in monti palavris qui num significa nadis i pareci latim. Quem num gosta di mim que vai caçá sua turmis! Manduma pindureta quium dia nois paga.</p>
-            	<div class="featured-box">
-                	<div class="featured-box-col1 wow fadeInRight delay-02s">
+            	<div class="box">
+                	<div class="box-col1 wow fadeInRight delay-02s">
                     	<i class="fa-magic"></i>
                     </div>	
-                	<div class="featured-box-col2 wow fadeInRight delay-02s">
-                        <h3>magic of theme development</h3>
-                        <p>Proin iaculis purus consequat sem cure digni ssim. Donec porttitora entum suscipit aenean rhoncus posuere odio in tincidunt. </p>
+                	<div class="box-col2 wow fadeInRight delay-02s">
+                        <h3>FAÇA SEU CADASTRO</h3>
+                        <p>Todo mundo vê os porris que eu tomo, mas ninguém vê os tombis que eu levo! Cevadis im ampola pa arma uma pindureta. </p>
                     </div>    
                 </div>
-                <div class="featured-box">
-                	<div class="featured-box-col1 wow fadeInRight delay-04s">
+                <div class="box">
+                	<div class="box-col1 wow fadeInRight delay-04s">
                     	<i class="fa-gift"></i>
                     </div>	
-                	<div class="featured-box-col2 wow fadeInRight delay-04s">
-                        <h3>neatly packaged</h3>
-                        <p>Proin iaculis purus consequat sem cure digni ssim. Donec porttitora entum suscipit aenean rhoncus posuere odio in tincidunt. </p>
+                	<div class="box-col2 wow fadeInRight delay-04s">
+                        <h3>Veja os chá de fraldas</h3>
+                        <p>Todo mundo vê os porris que eu tomo, mas ninguém vê os tombis que eu levo! Cevadis im ampola pa arma uma pindureta. </p>
                     </div>    
                 </div>
-                <div class="featured-box">
-                	<div class="featured-box-col1 wow fadeInRight delay-06s">
+                <div class="box">
+                	<div class="box-col1 wow fadeInRight delay-06s">
                     	<i class="fa-dashboard"></i>
                     </div>	
-                	<div class="featured-box-col2 wow fadeInRight delay-06s">
-                        <h3>SEO optimized</h3>
-                        <p>Proin iaculis purus consequat sem cure digni ssim. Donec porttitora entum suscipit aenean rhoncus posuere odio in tincidunt. </p>
+                	<div class="box-col2 wow fadeInRight delay-06s">
+                        <h3>Ajude o casal</h3>
+                        <p>Todo mundo vê os porris que eu tomo, mas ninguém vê os tombis que eu levo! Cevadis im ampola pa arma uma pindureta. </p>
                     </div>    
                 </div>
-                <a class="Learn-More" href="#">Learn More</a>
+                <div class="box">
+                	<div class="box-col1 wow fadeInRight delay-06s">
+                    	<i class="fa-dashboard"></i>
+                    </div>	
+                	<div class="box-col2 wow fadeInRight delay-06s">
+                        <h3>Entregamos para você</h3>
+                        <p>Todo mundo vê os porris que eu tomo, mas ninguém vê os tombis que eu levo! Cevadis im ampola pa arma uma pindureta. </p>
+                    </div>    
+                </div>
+                <a class="cta-button wow fadeInRight delay-08s" href="#">Comece Agora</a>
             </div>
         </div>
 	</div>
 </section>
 <!--main-section convidados-end-->
 
-<section class="main-section paddind" id="Portfolio"><!--main-section-start-->
+<!--main-section dúvidas-start-->
+<section class="main-section paddind" id="duvidas">
 	<div class="container">
-    	<h2>Portfolio</h2>
-    	<h6>Fresh portfolio of designs that will keep you wanting more.</h6>
-      <div class="portfolioFilter">  
-        <ul class="Portfolio-nav wow fadeIn delay-02s">
-        	<li><a href="#" data-filter="*" class="current" >All</a></li>
-            <li><a href="#" data-filter=".branding" >Branding</a></li>
-            <li><a href="#" data-filter=".webdesign" >Web design</a></li>
-            <li><a href="#" data-filter=".printdesign" >Print design</a></li>
-            <li><a href="#" data-filter=".photography" >Photography</a></li>
-        </ul>
-       </div> 
-        
+    	<h2>Dúvidas</h2>
+        <h6>Casamentiss faiz malandris se pirulitá. Mauris nec dolor in eros commodo tempor.</h6>
+        <div class="row">
+            <div class="col-lg-8 col-sm-7 faq col-centered">
+                
+                <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+                    <div class="panel panel-default">
+                        <div class="panel-heading panel-clr on" role="tab" id="headingOne">
+                        <h4 class="panel-title">
+                            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#duvida-1" aria-expanded="true" aria-controls="duvida-1">
+                            Dúvida #1 <span> </span>
+                            </a>
+                        </h4>
+                        </div>
+                        <div id="duvida-1" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+                        <div class="panel-body">
+                            <p>Mussum Ipsum, cacilds vidis litro abertis. Quem num gosta di mé, boa gentis num é. Admodum accumsan disputationi eu sit. Vide electram sadipscing et per. Si num tem leite então bota uma pinga aí cumpadi! Mais vale um bebadis conhecidiss, que um alcoolatra anonimis.</p>
+                            <p>Todo mundo vê os porris que eu tomo, mas ninguém vê os tombis que eu levo! Cevadis im ampola pa arma uma pindureta. Sapien in monti palavris qui num significa nadis i pareci latim. Suco de cevadiss deixa as pessoas mais interessantis.</p>
+                        </div>
+                        </div>
+                    </div>
+                    <div class="panel panel-default">
+                        <div class="panel-heading panel-clr" role="tab" id="headingTwo">
+                        <h4 class="panel-title">
+                            <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#duvida-2" aria-expanded="false" aria-controls="duvida-2">
+                            Dúvida #2 <span> </span>
+                            </a>
+                        </h4>
+                        </div>
+                        <div id="duvida-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+                        <div class="panel-body">
+                        <p>Todo mundo vê os porris que eu tomo, mas ninguém vê os tombis que eu levo! Cevadis im ampola pa arma uma pindureta. Sapien in monti palavris qui num significa nadis i pareci latim. Suco de cevadiss deixa as pessoas mais interessantis.</p>
+                        </div>
+                        </div>
+                    </div>
+                    <div class="panel panel-default">
+                        <div class="panel-heading panel-clr" role="tab" id="headingThree">
+                        <h4 class="panel-title">
+                            <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#duvida-3" aria-expanded="false" aria-controls="duvida-3">
+                            Dúvida #3 <span> </span>
+                            </a>
+                        </h4>
+                        </div>
+                        <div id="duvida-3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+                        <div class="panel-body">
+                        <p>Mussum Ipsum, cacilds vidis litro abertis. Quem num gosta di mé, boa gentis num é. Admodum accumsan disputationi eu sit. Vide electram sadipscing et per. Si num tem leite então bota uma pinga aí cumpadi! Mais vale um bebadis conhecidiss, que um alcoolatra anonimis.</p>
+                        </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>          
 	</div>
-    <div class="portfolioContainer wow fadeInUp delay-04s">
-            	<div class=" Portfolio-box printdesign">
-                	<a href="#"><img src="img/Portfolio-pic1.jpg" alt=""></a>	
-                	<h3>Foto Album</h3>
-                    <p>Print Design</p>
-                </div>
-                <div class="Portfolio-box webdesign">
-                	<a href="#"><img src="img/Portfolio-pic2.jpg" alt=""></a>	
-                	<h3>Luca Theme</h3>
-                    <p>Web Design</p>
-                </div>
-                <div class=" Portfolio-box branding">
-                	<a href="#"><img src="img/Portfolio-pic3.jpg" alt=""></a>	
-                	<h3>Uni Sans</h3>
-                    <p>Branding</p>
-                </div>
-                <div class=" Portfolio-box photography" >
-                	<a href="#"><img src="img/Portfolio-pic4.jpg" alt=""></a>	
-                	<h3>Vinyl Record</h3>
-                    <p>Photography</p>
-                </div>
-                <div class=" Portfolio-box branding">
-                	<a href="#"><img src="img/Portfolio-pic5.jpg" alt=""></a>	
-                	<h3>Hipster</h3>
-                    <p>Branding</p>
-                </div>
-                <div class=" Portfolio-box photography">
-                	<a href="#"><img src="img/Portfolio-pic6.jpg" alt=""></a>	
-                	<h3>Windmills</h3>
-                    <p>Photography</p>
-                </div>
-    </div>
-</section><!--main-section-end-->
+</section>
+<!--main-section dúvidas-end-->
 
-
-<section class="main-section client-part" id="client"><!--main-section client-part-start-->
+<!--main-section client-part-start-->
+<section class="main-section client-part" id="client">
 	<div class="container">
 		<b class="quote-right wow fadeInDown delay-03"><i class="fa-quote-right"></i></b>
     	<div class="row">
@@ -221,105 +241,29 @@ we were well fed and drunk all the time!</p>
         </div>
     	<ul class="client wow fadeIn delay-05s">
         	<li><a href="#">
-            	<img src="img/client-pic1.jpg" alt="">
-                <h3>James Bond</h3>
-                <span>License To Drink Inc.</span>
+            	<img src="assets/img/casal.jpg" width="100" alt="">
+                <h3>Aline e Carlos</h3>
             </a></li>
         </ul>
     </div>
-</section><!--main-section client-part-end-->
-<div class="c-logo-part"><!--c-logo-part-start-->
-	<div class="container">
-    	<ul>
-        	<li><a href="#"><img src="img/c-liogo1.png" alt=""></a></li>
-            <li><a href="#"><img src="img/c-liogo2.png" alt=""></a></li>
-            <li><a href="#"><img src="img/c-liogo3.png" alt=""></a></li>
-            <li><a href="#"><img src="img/c-liogo4.png" alt=""></a></li>
-            <li><a href="#"><img src="img/c-liogo5.png" alt=""></a></li>
-    	</ul>
-	</div>
-</div><!--c-logo-part-end-->
-<section class="main-section team" id="team"><!--main-section team-start-->
-	<div class="container">
-        <h2>team</h2>
-        <h6>Take a closer look into our amazing team. We won’t bite.</h6>
-        <div class="team-leader-block clearfix">
-            <div class="team-leader-box">
-                <div class="team-leader wow fadeInDown delay-03s"> 
-                    <div class="team-leader-shadow"><a href="#"></a></div>
-                    <img src="img/team-leader-pic1.jpg" alt="">
-                    <ul>
-                        <li><a href="#" class="fa-twitter"></a></li>
-                        <li><a href="#" class="fa-facebook"></a></li>
-                        <li><a href="#" class="fa-pinterest"></a></li>
-                        <li><a href="#" class="fa-google-plus"></a></li>
-                    </ul>
-                </div>
-                <h3 class="wow fadeInDown delay-03s">Walter White</h3>
-                <span class="wow fadeInDown delay-03s">Chief Executive Officer</span>
-                <p class="wow fadeInDown delay-03s">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin consequat sollicitudin cursus. Dolor sit amet, consectetur adipiscing elit proin consequat.</p>
-            </div>
-            <div class="team-leader-box">
-                <div class="team-leader  wow fadeInDown delay-06s"> 
-                    <div class="team-leader-shadow"><a href="#"></a></div>
-                    <img src="img/team-leader-pic2.jpg" alt="">
-                    <ul>
-                        <li><a href="#" class="fa-twitter"></a></li>
-                        <li><a href="#" class="fa-facebook"></a></li>
-                        <li><a href="#" class="fa-pinterest"></a></li>
-                        <li><a href="#" class="fa-google-plus"></a></li>
-                    </ul>
-                </div>
-                <h3 class="wow fadeInDown delay-06s">Jesse Pinkman</h3>
-                <span class="wow fadeInDown delay-06s">Product Manager</span>
-                <p class="wow fadeInDown delay-06s">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin consequat sollicitudin cursus. Dolor sit amet, consectetur adipiscing elit proin consequat.</p>
-            </div>
-            <div class="team-leader-box">
-                <div class="team-leader wow fadeInDown delay-09s"> 
-                    <div class="team-leader-shadow"><a href="#"></a></div>
-                    <img src="img/team-leader-pic3.jpg" alt="">
-                    <ul>
-                        <li><a href="#" class="fa-twitter"></a></li>
-                        <li><a href="#" class="fa-facebook"></a></li>
-                        <li><a href="#" class="fa-pinterest"></a></li>
-                        <li><a href="#" class="fa-google-plus"></a></li>
-                    </ul>
-                </div>
-                <h3 class="wow fadeInDown delay-09s">Skyler white</h3>
-                <span class="wow fadeInDown delay-09s">Accountant</span>
-                <p class="wow fadeInDown delay-09s">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin consequat sollicitudin cursus. Dolor sit amet, consectetur adipiscing elit proin consequat.</p>
-            </div>
-        </div>
-    </div>
-</section><!--main-section team-end-->
+</section>
+<!--main-section client-part-end-->
 
-
-
-<section class="business-talking"><!--business-talking-start-->
-	<div class="container">
-        <h2>Let’s Talk Business.</h2>
-    </div>
-</section><!--business-talking-end-->
-<div class="container">
-<section class="main-section contact" id="contact">
-	
+<section class="main-section contact" id="contato">	
+    <div class="container">
         <div class="row">
-        	<div class="col-lg-6 col-sm-7 wow fadeInLeft">
+        	<div class="col-lg-6 col-sm-7 wow fadeInLeft contato-info">
             	<div class="contact-info-box address clearfix">
-                	<h3><i class=" icon-map-marker"></i>Address:</h3>
-                	<span>308 Negra Arroyo Lane<br>Albuquerque, New Mexico, 87111.</span>
+                	<h3><i class=" icon-map-marker"></i>Endereço:</h3>
+                	<span>Asa Norte 409 Bloco D Apt. 11</span>
                 </div>
                 <div class="contact-info-box phone clearfix">
                 	<h3><i class="fa-phone"></i>Phone:</h3>
-                	<span>1-800-BOO-YAHH</span>
+                	<span>(61) 99999-9999</span>
                 </div>
                 <div class="contact-info-box email clearfix">
                 	<h3><i class="fa-pencil"></i>email:</h3>
-                	<span>hello@knightstudios.com</span>
-                </div>
-            	<div class="contact-info-box hours clearfix">
-                	<h3><i class="fa-clock-o"></i>Hours:</h3>
-                	<span><strong>Monday - Thursday:</strong> 10am - 6pm<br><strong>Friday:</strong> People work on Fridays now?<br><strong>Saturday - Sunday:</strong> Best not to ask.</span>
+                	<span>contato@chadefralda.com</span>
                 </div>
                 <ul class="social-link">
                 	<li class="twitter"><a href="#"><i class="fa-twitter"></i></a></li>
@@ -336,48 +280,40 @@ we were well fed and drunk all the time!</p>
                     <div id="errormessage"></div>
                     <form action="" method="post" role="form" class="contactForm">
                         <div class="form-group">
-                            <input type="text" name="name" class="form-control input-text" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+                            <input type="text" name="name" class="form-control input-text" id="name" placeholder="Seu Nome" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
                             <div class="validation"></div>
                         </div>
                         <div class="form-group">
-                            <input type="email" class="form-control input-text" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
+                            <input type="email" class="form-control input-text" name="email" id="email" placeholder="Seu E-mail" data-rule="email" data-msg="Please enter a valid email" />
                             <div class="validation"></div>
                         </div>
                         <div class="form-group">
-                            <input type="text" class="form-control input-text" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
-                            <div class="validation"></div>
-                        </div>
-                        <div class="form-group">
-                            <textarea class="form-control input-text text-area" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
+                            <textarea class="form-control input-text text-area" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Mensagem"></textarea>
                             <div class="validation"></div>
                         </div>
                         
-                        <div class="text-center"><button type="submit" class="input-btn">Send Message</button></div>
+                        <div class="text-center"><button type="submit" class="input-btn">Enviar</button></div>
                     </form>
                 </div>	
             </div>
         </div>
+    </div>
 </section>
-</div>
+
 <footer class="footer">
     <div class="container">
-        <div class="footer-logo"><a href="#"><img src="img/footer-logo.png" alt=""></a></div>
-        <span class="copyright">&copy; Knight Theme. All Rights Reserved</span>
-        <div class="credits">
-            <!-- 
-                All the links in the footer should remain intact. 
-                You can delete the links only if you purchased the pro version.
-                Licensing information: https://bootstrapmade.com/license/
-                Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=Knight
-            -->
-            <a href="https://bootstrapmade.com/free-business-bootstrap-themes-website-templates/">Business Bootstrap Themes</a> by <a href="https://bootstrapmade.com/">BootstrapMade</a>
-        </div>
+        <span class="copyright">&copy; Chá de Fraldas. Todos os direitos reservados</span>
     </div>
 </footer>
 
 
 <script type="text/javascript">
     $(document).ready(function(e) {
+        $('.panel-clr').click( function() {
+            $('.panel-clr').removeClass('on');
+            $(this).toggleClass('on');
+
+        } )
         $('#test').scrollToFixed();
         $('.res-nav_click').click(function(){
             $('.main-nav').slideToggle();
@@ -388,15 +324,15 @@ we were well fed and drunk all the time!</p>
     });
 </script>
 
-  <script>
-    wow = new WOW(
-      {
-        animateClass: 'animated',
-        offset:       100
-      }
-    );
-    wow.init();
-  </script>
+<script>
+wow = new WOW(
+    {
+    animateClass: 'animated',
+    offset:       100
+    }
+);
+wow.init();
+</script>
 
 
 <script type="text/javascript">
@@ -422,52 +358,7 @@ we were well fed and drunk all the time!</p>
 	})
 </script>
 
-<script type="text/javascript">
 
-$(window).load(function(){
-  
-  
-  var $container = $('.portfolioContainer'),
-      $body = $('body'),
-      colW = 375,
-      columns = null;
-
-  
-  $container.isotope({
-    // disable window resizing
-    resizable: true,
-    masonry: {
-      columnWidth: colW
-    }
-  });
-  
-  $(window).smartresize(function(){
-    // check if columns has changed
-    var currentColumns = Math.floor( ( $body.width() -30 ) / colW );
-    if ( currentColumns !== columns ) {
-      // set new column count
-      columns = currentColumns;
-      // apply width to container manually, then trigger relayout
-      $container.width( columns * colW )
-        .isotope('reLayout');
-    }
-    
-  }).smartresize(); // trigger resize to set container width
-  $('.portfolioFilter a').click(function(){
-        $('.portfolioFilter .current').removeClass('current');
-        $(this).addClass('current');
- 
-        var selector = $(this).attr('data-filter');
-        $container.isotope({
-			
-            filter: selector,
-         });
-         return false;
-    });
-  
-});
-
-</script>
 
 </body>
 </html>
